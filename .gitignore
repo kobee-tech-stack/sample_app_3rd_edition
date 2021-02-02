@@ -17,3 +17,7 @@
 
 # Ignore Spring files.
 /spring/*.pid
+/config/local_env.yml
+
+# Ignore uploaded test images.
+/public/uploads
